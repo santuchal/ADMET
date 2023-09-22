@@ -4,7 +4,6 @@ import re
 import os
 import sys
 import pandas as pd
-from tqdm import tqdm
 import joblib
 import streamlit as st
 from all_rule import RULE_CHECK 
