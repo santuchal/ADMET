@@ -10,4 +10,4 @@ Already writing a series of article in Medium. You can read it in here:
 
 Link to read: https://medium.com/@santuchal/admet-an-essential-component-in-drug-discovery-and-development-f503a5aae5dd
 
-Link to see the webapp: 
+Link to see the webapp: https://hav8whwegtyvgwjixnhxqw.streamlit.app/
